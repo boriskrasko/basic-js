@@ -7,7 +7,7 @@ Your task is to write several functions that are the solution to the subtasks. S
 
 ---
 
-[x] ### **Count cats!**
+~~### **Count cats!**~~
 
 Your task is to count the cats hidden in the backyard (presented by two-dimensional `Array`). Cats hide well, but their **ears** (`"^^"`) are clearly visible. Your task is to implement the `countCats(backyard)` function that will count cats. Good luck!
 
