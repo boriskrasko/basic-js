@@ -59,7 +59,7 @@ Write your code in `src/carbon-dating.js`.
 
 ---
 
-### **Dream team**
+~~### **Dream team**~~
 
 Imagine you and your friends decide to create a **dream team**. This team should have a cool secret name that contains encrypted information about it. For example, these may be the **first letters** of the names of its members in **upper case** **sorted alphabetically**.
 Your task is to implement the `createDreamTeam(members)` function that returns name of a newly made team (`string`) based on the names of its members (`Array`). Good luck!
